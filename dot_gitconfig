@@ -1,0 +1,7 @@
+[user]
+	name = pkdee
+	email = gdpark.dev@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	autocrlf = input
