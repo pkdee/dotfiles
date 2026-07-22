@@ -1,3 +1,4 @@
 [tools]
 java = ["temurin-21", "temurin-17"]
 node = "lts"
+python = "3.12"
